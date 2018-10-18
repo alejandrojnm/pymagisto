@@ -1,0 +1,1 @@
+from .pymagisto import Pymagisto
