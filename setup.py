@@ -21,7 +21,7 @@ setup(
     author="Alejandro JNM",
     author_email="alejandrojnm@gmail.com",
     description="Wrapper for magisto api",
-    long_description=read("README.rst"),
+    long_description=read("pymagisto/README.rst"),
     packages=find_packages(exclude=('tests',)),
     install_requires=['requests'],
     classifiers=[
